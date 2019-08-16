@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/clion_project/offer7/BianryTree.h
+
+E:/clion_project/offer7/main.cpp
+exception
+-
+cstdio
+-
+BianryTree.h
+E:/clion_project/offer7/BianryTree.h
+
