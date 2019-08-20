@@ -30,6 +30,7 @@ int NumberOf1_Solution2(int n)
 
 
 int main()
+
 {
     const int n = 24;
     int count = NumberOf1_Solution2(n);
